@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Computational statistics"
+date:   2023-06-18 12:07:13 +0200
 categories: jekyll update
 ---
 
