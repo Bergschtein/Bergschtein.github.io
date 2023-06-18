@@ -31,6 +31,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -50,3 +52,14 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+homeInfoParams:
+  Title: Hey!
+  Content: >
+    Welcome to my portfolio. Here i present some of the work i have done and is capable of doing.
+  
+socialIcons:
+  - name: LinkedIn
+    url: "https://www.linkedin.com/in/vik-mathisen/"
+  - name: github
+    url: "https://github.com/Bergschtein"
