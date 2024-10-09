@@ -18,16 +18,19 @@ permalink: /professional/
 
 ### Thesis
 
-![pdf](/assets/professional/Master_thesis.pdf)
+![pdf](/assets/Master_thesis.pdf)
 
-## (A Taste Of a) Master In Cyber Security and Data Communication
+## (A taste of a) Master In Cyber Security and Data Communication
 
 
 
-## Bachelor In Mathematics
+## Bachelors In Mathematics
 
 ### Thesis
 
+![pdf](/assets/professional/Bachelor_thesis.pdf)
 
 
 # Extracurricular
+
+![pdf](/assets/professional/AlgDat_kompendium.pdf)
