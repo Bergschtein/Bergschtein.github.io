@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am a mathematician educated at NTNU with a deep interest in technology, sustainability, and innovative solutions. My strong analytical skills and curiosity drive me to explore and master new challenges, particularly in data analysis, machine learning, and technical communication.
+I am a mathematician educated at NTNU with a deep interest in technology, data, and innovative solutions. My strong analytical skills and curiosity drive me to explore and master new challenges, particularly in data analysis, machine learning, and technical communication.
 
 With a passion for sharing knowledge, I have gained extensive experience as a personal tutor, author of compendiums, and speaker in both academic and informal settings. I am a skilled communicator who understands the value of presenting complex concepts in an understandable and engaging way, both to technical and non-technical audiences.
 
-Recently, I have been published as a researcher through my master's thesis, a testament to my dedication and ability to deliver high-quality work. My research in machine learning demonstrates my ability to think critically, work systematically, and drive forward new solutions.
+Recently, I have been published as a researcher through my master's thesis, a testament to my dedication and ability to deliver high-quality work. 
 
 Additionally, I have solid leadership experience, managing a group of over 300 members. My strong leadership skills and ability to balance technical and interpersonal skills reflect my commitment to continuous learning and improvement.
 
