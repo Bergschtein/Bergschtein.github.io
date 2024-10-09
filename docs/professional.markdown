@@ -22,17 +22,11 @@ You can read the paper on [arXiv](https://arxiv.org/abs/2408.16613) or download 
 
 From august 2018 until the june of 2024 I was a student at NTNU Trondheim.
 
-### Master In Statistics
+### Master In Statistics 
 
-Focus on theoretical and practical aspects of computational statistics.
+My main interests revolved around on theoretical and practical aspects of computational statistics. From statistical learning theory and bayesian inference with MCMC to machine learning and AI.
 
-From statistical learning theory and model selection,
-
-bayesian methods such as MCMC, 
- 
-and machine learning and AI.  
-
-My thesis revolved around representation learning for generative models for time series. You can download the thesis [here.](/assets/Master_thesis.pdf)
+The thesis revolved around representation learning for generative models for time series. You can download the thesis [here.](/assets/Master_thesis.pdf)
 
 ### (A taste of a) Master In Cyber Security and Data Communication
 
@@ -44,13 +38,13 @@ I wrote a compendium for the course Algorithms and Data structures. Download the
 
 ### Bachelors In Mathematics
 
-Incredibly curious 
+Incredibly curious about pure mathematics, algebra and topology in particular. 
 
+The idea of a unified framework for mathematics through category theory caught my attention early. I developed a good relationship with my supervisor-to-be, Johanne Haugland. She provided many fruitful discussions and interesting challenges.
+In parallel I got involved with cryptography, coding theory and computational sciences.
 
 My thesis serves as an introduction to the theory of Triangulated Categories. You can download the thesis [here.](/assets/professional/Bachelor_thesis.pdf)
 
-
-## Extracurricular
 
 
 
