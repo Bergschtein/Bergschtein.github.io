@@ -28,7 +28,7 @@ github_username: Bergschtein
 
 # Build settings
 # minimal-mistakes-jekyll
-theme: minimal-mistakes-jekyll #minima
+theme: minima
 plugins:
   - jekyll-feed
 
