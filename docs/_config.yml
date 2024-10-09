@@ -27,7 +27,8 @@ url: "https://bergschtein.github.io/" # the base hostname & protocol for your si
 github_username: Bergschtein
 
 # Build settings
-theme: minima
+# minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll #minima
 plugins:
   - jekyll-feed
 
