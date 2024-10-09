@@ -9,7 +9,7 @@ For a more compact and portable version, you can download my CV [here.](/assets/
 
 ## Scientific Publications
 
-In the spring of 2024, Erlend Lokna and i worked together on our master theses. We investigated a novel use of self-supervised learning (SSL) for improving *tokenization* in a generative model for time series. Our efforts lead to quite promising results regarding the quality of learned representations and generative quality, among others. 
+In the spring of 2024, Erlend Lokna and I worked together on our master theses. We investigated a novel use of self-supervised learning (SSL) for improving *tokenization* in a generative model for time series. Our efforts lead to quite promising results regarding the quality of learned representations and generative quality, among others. 
 
 We wrote our contributions up as a paper, *Blending Low and High-Level Semantics of Time Series for Better Masked Time Series Generation*, and got accepted to the [ML4ITS2024](https://ml4its.github.io/ml4its2024/) workshop at [ECML-PKDD 2024](https://ecmlpkdd.org/2024/).
 
@@ -20,17 +20,27 @@ You can read the paper on [arXiv](https://arxiv.org/abs/2408.16613) or download 
 
 ## Studies
 
-I was a student at NTNU Trondheim from autumn 2018 until spring 2024.
+From august 2018 until the june of 2024 I was a student at NTNU Trondheim.
 
 ### Master In Statistics
 
-Focus on theoretical and practical aspects of computational statistics. From statistical learning theory and model selection, bayesian methods such as MCMC, and machine learning and AI.  
+Focus on theoretical and practical aspects of computational statistics.
+
+From statistical learning theory and model selection,
+
+bayesian methods such as MCMC, 
+ 
+and machine learning and AI.  
 
 My thesis revolved around representation learning for generative models for time series. You can download the thesis [here.](/assets/Master_thesis.pdf)
 
 ### (A taste of a) Master In Cyber Security and Data Communication
 
+Following a theoretical study of algebra, cryptography and coding theory, I was curious about cyber security. 
 
+I studied network protocols throughout the OSI model, performed risk analyses of ICT systems and worked with database management systems.
+
+I wrote a compendium for the course Algorithms and Data structures. Download the compendium [here](/assets/professional/AlgDat_kompendium.pdf) (norwegian only).
 
 ### Bachelors In Mathematics
 
@@ -44,4 +54,3 @@ My thesis serves as an introduction to the theory of Triangulated Categories. Yo
 
 
 
-[Download the compendium here (norwegian only).](/assets/professional/AlgDat_kompendium.pdf)
