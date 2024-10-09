@@ -9,6 +9,8 @@ permalink: /professional/
 
 **Blending Low and High-Level Semantics of Time Series for Better Masked Time Series Generation**
 
+[paper](/assets/paper.pdf)
+
 
 # Studies
 
@@ -18,7 +20,7 @@ permalink: /professional/
 
 ### Thesis
 
-![pdf](/assets/Master_thesis.pdf)
+[Master thesis](/assets/Master_thesis.pdf)
 
 ## (A taste of a) Master In Cyber Security and Data Communication
 
@@ -28,9 +30,9 @@ permalink: /professional/
 
 ### Thesis
 
-![pdf](/assets/professional/Bachelor_thesis.pdf)
+[Bachelor thesis](/assets/professional/Bachelor_thesis.pdf)
 
 
 # Extracurricular
 
-![pdf](/assets/professional/AlgDat_kompendium.pdf)
+[AlgDat kompendium](/assets/professional/AlgDat_kompendium.pdf)
