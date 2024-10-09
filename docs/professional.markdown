@@ -19,17 +19,17 @@ You can download my CV [here.](/assets/CV - Johan Vik Mathisen - Eng.docx)
 
 I was a student at NTNU Trondheim from autumn 2018 until spring 2024.
 
-## Master In Statistics
+### Master In Statistics
 
 Focus on theoretical and practical aspects of computational statistics. From statistical learning theory and model selection, bayesian methods such as MCMC, and machine learning and AI.  
 
 My thesis revolved around representation learning for generative models for time series. [Download the thesis here.](/assets/Master_thesis.pdf)
 
-## (A taste of a) Master In Cyber Security and Data Communication
+### (A taste of a) Master In Cyber Security and Data Communication
 
 
 
-## Bachelors In Mathematics
+### Bachelors In Mathematics
 
 Incredibly curious 
 
