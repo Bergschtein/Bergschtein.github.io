@@ -60,7 +60,7 @@ homeInfoParams:
     Welcome to my portfolio. Here i present some of the work i have done and is capable of doing.
   
 socialIcons:
-  - name: LinkedIn
+  - name: linkedin
     url: "https://www.linkedin.com/in/vik-mathisen/"
   - name: github
     url: "https://github.com/Bergschtein"
