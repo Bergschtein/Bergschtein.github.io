@@ -8,14 +8,14 @@ permalink: /professional/
 You can download my CV [here.](/assets/CV - Johan Vik Mathisen - Eng.docx)
 
 
-# Scientific Publications
+## Scientific Publications
 
 **Blending Low and High-Level Semantics of Time Series for Better Masked Time Series Generation**
 
 [Download the paper here.](/assets/paper.pdf)
 
 
-# Studies
+## Studies
 
 I was a student at NTNU Trondheim from autumn 2018 until spring 2024.
 
@@ -37,7 +37,8 @@ Incredibly curious
 My thesis serves as an introduction to the theory of Triangulated Categories. [Download the thesis here.](/assets/professional/Bachelor_thesis.pdf)
 
 
-# Extracurricular
+## Extracurricular
+
 
 
 [Download the compendium here (norwegian only).](/assets/professional/AlgDat_kompendium.pdf)
