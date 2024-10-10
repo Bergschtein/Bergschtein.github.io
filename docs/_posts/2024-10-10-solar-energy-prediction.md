@@ -101,6 +101,7 @@ Scaling Factors:
 - Location A: No scaling (k_A = 1).
 - Location B: Scaled by a factor of k_B= 5.
 - Location C: Scaled by a factor of k_C = 6.
+
 Process:
 - Before Training: Multiply the target variable by the scaling factor corresponding to its location.
 - After Prediction: Divide the predicted values by the same scaling factor to return to the original scale.
