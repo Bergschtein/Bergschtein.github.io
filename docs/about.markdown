@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-    ![Headshot](/assest/headshot.png)
+![Headshot](/assest/headshot.png)
 
 I am a mathematician educated at NTNU with a deep interest in technology, data, and innovative solutions. My strong analytical skills and curiosity drive me to explore and master new challenges, particularly in data analysis, machine learning, and technical communication.
 
