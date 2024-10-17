@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+    ![Headshot](/assest/headshot.png)
 
 I am a mathematician educated at NTNU with a deep interest in technology, data, and innovative solutions. My strong analytical skills and curiosity drive me to explore and master new challenges, particularly in data analysis, machine learning, and technical communication.
 
@@ -30,14 +31,11 @@ You can read the paper on [arXiv](https://arxiv.org/abs/2408.16613) or download 
 
 From august 2018 until the june of 2024 I was a student at NTNU Trondheim.
 
-### Bachelors In Mathematics
+### Master In Statistics 
 
-Incredibly curious about pure mathematics, algebra and topology in particular. 
+My main interests revolved around on theoretical and practical aspects of computational statistics. From statistical learning theory and bayesian inference with MCMC to machine learning and AI.
 
-The idea of a unified framework for mathematics through category theory caught my attention early. I developed a good relationship with my supervisor-to-be, Johanne Haugland. She provided many fruitful discussions and interesting challenges.
-In parallel I got involved with cryptography, coding theory and computational sciences.
-
-My thesis serves as an introduction to the theory of Triangulated Categories. You can download the thesis [here.](/assets/professional/Bachelor_thesis.pdf)
+The thesis revolved around representation learning for generative models for time series. You can download the thesis [here.](/assets/Master_thesis.pdf)
 
 ### (A taste of a) Master In Cyber Security and Data Communication
 
@@ -47,12 +45,14 @@ I studied network protocols throughout the OSI model, performed risk analyses of
 
 I wrote a compendium for the course Algorithms and Data structures. Download the compendium [here](/assets/professional/AlgDat_kompendium.pdf) (norwegian only).
 
+### Bachelors In Mathematics
 
-### Master In Statistics 
+I was incredibly curious about pure mathematics, algebra and topology in particular. The idea of a unified framework for mathematics through category theory caught my attention early. I developed a good relationship with my supervisor-to-be, Johanne Haugland. She provided many fruitful discussions and interesting challenges.
+In parallel I got involved with cryptography, coding theory and computational sciences.
 
-My main interests revolved around on theoretical and practical aspects of computational statistics. From statistical learning theory and bayesian inference with MCMC to machine learning and AI.
+My thesis serves as an introduction to the theory of Triangulated Categories. You can download the thesis [here.](/assets/professional/Bachelor_thesis.pdf)
 
-The thesis revolved around representation learning for generative models for time series. You can download the thesis [here.](/assets/Master_thesis.pdf)
+
 
 
 
